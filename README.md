@@ -1,3 +1,5 @@
+<img src="https://wallpaperaccess.com/full/796831.png" width="100%" ><br>
+
 <h1 align="center">Hi 👋, I'm Saurav Devkota</h1>
 <h3 align="center">A sophomore at KIIT University</h3>
 

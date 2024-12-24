@@ -1,7 +1,7 @@
 <img src="https://wallpaperaccess.com/full/796831.png" width="100%" ><br>
 
 <h1 align="center">Hi 👋, I'm Saurav Devkota</h1>
-<h3 align="center">A Pre-Final year Student at KIIT University</h3>
+<h3 align="center">A Final year Student at KIIT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav059&label=Profile%20views&color=0e75b6&style=flat" alt="saurav059" /> </p>
 

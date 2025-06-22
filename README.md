@@ -1,7 +1,7 @@
 <img src="https://wallpaperaccess.com/full/796831.png" width="100%" ><br>
 
 <h1 align="center">Hi 👋, I'm Saurav Devkota</h1>
-<h3 align="center">A Final year Student at KIIT University</h3>
+<h3 align="center">A B.tech Graduate </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav059&label=Profile%20views&color=0e75b6&style=flat" alt="saurav059" /> </p>
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **FMachine Learning**
 
-- 💬 Ask me about **C, C++, Python and ML**
+- 💬 Ask me about **C, C++, Python and Machine Learning**
 
 - 📫 How to reach me *saurav.devkota.2002@gmail.com*
 

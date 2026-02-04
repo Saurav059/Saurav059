@@ -1,35 +1,126 @@
-<img src="https://wallpaperaccess.com/full/796831.png" width="100%" ><br>
+<img src="https://wallpaperaccess.com/full/796831.png" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Saurav Devkota</h1>
-<h3 align="center">A B.tech Graduate </h3>
+<h1 align="center">Hi 👋 I'm Saurav Devkota</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav059&label=Profile%20views&color=0e75b6&style=flat" alt="saurav059" /> </p>
-
-<hr>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FMachine Learning**
-
-- 💬 Ask me about **C, C++, Python and Machine Learning**
-
-- 📫 How to reach me *saurav.devkota.2002@gmail.com*
-
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav059" alt="saurav059" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurav-devkota-s2059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav059" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Learner;Python+Developer;System+Security+Explorer;AI+%2B+Security+Enthusiast"/>
 </p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav059&show_icons=true&locale=en&layout=compact" alt="saurav059" /></p>
-<hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav059&show_icons=true&locale=en" alt="saurav059" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav059&" alt="saurav059" /></p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/saurav-devkota-s2059">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="mailto:saurav.devkota.2002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  <a href="https://saurav-devkota.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,linux,aws,mysql" />
+</p>
+
+---
+
+## 🤖 Data / AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛡 Cyber Security
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netcat-444444?style=for-the-badge"/>
+</p>
+
+---
+
+## 💀 Labs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploitable-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DVWA-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_Juice_Shop-F47B20?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧰 Dev Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Saurav059/Face-Recognition-Using-Vision-Transformer-using-faces95-dataset">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurav059&repo=Face-Recognition-Using-Vision-Transformer-using-faces95-dataset&theme=transparent"/>
+</a>
+
+<a href="https://github.com/Saurav059/Action-Detection-using-ViVit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurav059&repo=Action-Detection-using-ViVit&theme=transparent"/>
+</a>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%25%20Scholarship-KIIT%20University-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research%20Publication-Yangzhou%20University-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Member-FNUW-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurav059&show_icons=true&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saurav059&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav059&layout=compact&theme=transparent"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurav059&label=Profile+Views&color=00f7ff&style=flat"/>
+</p>

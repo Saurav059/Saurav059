@@ -105,6 +105,8 @@
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -118,6 +120,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav059&layout=compact&theme=transparent"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saurav059/Saurav059/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
